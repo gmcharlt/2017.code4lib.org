@@ -1,6 +1,6 @@
 livestream-url: "https://www.youtube.com/user/code4lib"
 talk-proposal-form: "https://goo.gl/forms/GbM0jmSdXFkRdHAr2"
-workshop-proposal-form: ""
+workshop-proposal-form: "kimpham54@gmail.com."
 registration-form: ""
 workshop-registration-form: ""
 
@@ -9,7 +9,7 @@ toggles:
   search: false
   livestream: false
   prop-talk: true
-  prop-shop: false
+  prop-shop: true
   vote-shop: false
   vote-talk: false
   vote-key: false
